@@ -1,0 +1,179 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1081 674" width="121" height="74">
+	<title>football-goal-svg</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1"> <feGaussianBlur stdDeviation="15.7"/> </filter>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m969.85 78.8l-23.01 270.63c-0.02 0.29-0.32 0.51-0.68 0.51h-806.28c-0.36 0-0.66-0.22-0.69-0.51l-25.3-270.63c-0.03-0.32 0.28-0.59 0.67-0.59h854.6c0.4 0 0.72 0.27 0.69 0.59z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m953.67 352.04l22.46-264.03c0.02-0.2 0.1-0.29 0.15-0.33q0.11-0.11 0.4-0.16 0.28-0.04 0.44 0.03c0.07 0.02 0.19 0.08 0.3 0.27l50.25 81.64q0.07 0.12 0.07 0.25v297.44c0 0.22-0.08 0.3-0.13 0.35q-0.1 0.11-0.4 0.18-0.29 0.04-0.46-0.02c-0.06-0.02-0.18-0.08-0.31-0.27l-72.69-115.06q-0.09-0.14-0.08-0.29z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m131.08 352.03l-22.91-264.13c-0.02-0.21-0.1-0.29-0.15-0.34q-0.12-0.1-0.41-0.16-0.29-0.03-0.45 0.03c-0.07 0.03-0.19 0.08-0.3 0.27l-51.34 81.77q-0.08 0.11-0.08 0.24v297.56c0 0.21 0.08 0.3 0.13 0.34q0.11 0.12 0.4 0.18 0.31 0.05 0.47-0.01c0.07-0.03 0.19-0.08 0.31-0.27l74.26-115.2q0.09-0.13 0.07-0.28z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m971.72 78.52l46.09 72.41c0.23 0.37-0.09 0.8-0.6 0.8h-950.66c-0.51 0-0.84-0.43-0.61-0.8l46.09-72.42c0.11-0.18 0.34-0.3 0.6-0.3h858.48c0.26 0 0.5 0.12 0.61 0.31z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { opacity: .1;filter: url(#f1);fill: #000000 } 
+		.s1 { opacity: .1;fill: #ffffff;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 6.4 } 
+		.s2 { fill: none;stroke: #ffffff;stroke-linecap: round;stroke-width: 2.3 } 
+		.s3 { fill: none;stroke: #ffffff;stroke-linejoin: round;stroke-width: 26.1 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m101.5 67h884.3l45.6 80.4c5.7-0.7 8.5 0.1 12.9 5 3.2 3.4 4.6 8 4.6 12.7v323.9h-34.9v-26l-65.5-106h-809.5l-77 117.5v14.5h-30.7v-331.1c5.9-10.9 11.3-13.7 24.6-12.2z"/>
+	</g>
+	<path id="Layer" class="s1" d="m977 74.9l-28.1 278.1c0 0.2-0.3 0.4-0.7 0.4l-812.6 0.1c-0.4 0-0.7-0.3-0.7-0.6l-23.5-278c-0.1-0.3 0.2-0.6 0.6-0.6h864.3c0.4 0 0.7 0.3 0.7 0.6z"/>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 305l442-1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 304.1l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m329.3 497.1v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m766.7 496.1v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 102.3l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 101.3l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m111 497.6v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m548.4 496.7v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m438.4 496.6l2.1-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m875.9 495.6l2-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 203.6l442-1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 202.7l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m220.1 497.4v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m657.6 496.4v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 354.8l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m383.9 496.9l2-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m821.3 495.9l2-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 153l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 152l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.9 76.9l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.3 75.9l442-1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m165.6 497.5v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m603 496.5v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m493 496.7v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m930.4 495.8v-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 254.3l442-1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 253.4l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m274.7 497.2v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m712.2 496.3v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 330.4l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 329.4l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m356.6 497.1l2-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m794 496.1l2.1-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 127.6l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 126.6l442-1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m138.3 497.6v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m575.7 496.6v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m465.7 496.8v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m903.1 495.8v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 229l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 228l442-1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m247.4 497.3v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m684.8 496.4v-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m411.2 496.8l2-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m848.6 495.8l2-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 178.3l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 177.3l442-1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m192.9 497.4v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m630.3 496.5v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m520.3 496.7v-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m957.7 495.7v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m94.7 279.7l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m532.1 278.7l442-1.1"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m302 497.2v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m739.4 496.2v-677.6"/>
+		</g>
+	</g>
+	<path id="Layer" class="s1" d="m1027.7 162.4v313.1c0 0.2 0 0.3-0.1 0.4q-0.1 0.1-0.4 0.1-0.3 0.1-0.4 0c-0.1 0-0.2-0.1-0.3-0.3l-78-127.1q-0.1-0.2 0-0.3l27.4-274.4c0-0.2 0.1-0.3 0.1-0.3q0.2-0.1 0.4-0.1 0.3-0.1 0.5 0c0.1 0 0.2 0.1 0.3 0.3l50.5 88.3q0 0.2 0 0.3z"/>
+	<path id="Layer" class="s1" d="m55.4 162.4v313.8c0 0.2 0.1 0.3 0.1 0.3q0.1 0.2 0.4 0.2 0.3 0 0.5 0c0 0 0.2-0.1 0.3-0.3l78.4-120.7q0.1-0.1 0.1-0.3l-26.9-281.5c0-0.2-0.1-0.3-0.1-0.3q-0.2-0.1-0.5-0.2-0.2 0-0.4 0.1c-0.1 0-0.2 0-0.3 0.2l-51.5 88.4q-0.1 0.1-0.1 0.3z"/>
+	<g id="Clip-Path" clip-path="url(#cp2)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 441.8l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 441.3l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 239l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 238.6l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.7 163l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1003 162.5l229.8-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1011.4 634v-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m954.2 633.8l1.1-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 340.4l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 88.6l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 339.9l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 88.1l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 289.7l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 289.3l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.7 213.7l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1003 213.2l229.8-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m982.6 633.9v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 391.1l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 139.3l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 390.7l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 138.8l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 467.1l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 466.7l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 264.4l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 263.9l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.7 188.3l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1003 187.8l229.8-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1025.6 633.9v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m968.4 634v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 365.8l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 113.9l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 365.3l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 113.5l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 315.1l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 314.6l229.7-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m996.8 633.9v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m775.6 416.4l229.7-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m1002.9 416l229.7-0.6"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp3)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 441.8l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 441.3l-234.3-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 239l-234.4-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 238.6l-234.3-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.7 163l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.7 162.5l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m72.1 633.9v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m130.5 633.8l-1.1-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 340.4l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 88.6l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 339.9l-234.3-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 88.1l-234.3-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 289.7l-234.4-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 289.3l-234.3-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.7 213.6l-234.4-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.7 213.2l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m101.6 633.9v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 391.1l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 139.3l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 390.6l-234.4-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 138.8l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 467.1l-234.4-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 466.7l-234.3-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 264.4l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 263.9l-234.3-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.7 188.3l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.7 187.8l-234.4-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m57.7 633.9v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m116 634v-677.7"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 365.8l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 113.9l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 365.3l-234.3-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 113.4l-234.3-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 315.1l-234.4-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 314.6l-234.3-0.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m87.1 633.9v-677.6"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m312.8 416.4l-234.4-0.5"/>
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m80.8 416l-234.3-0.6"/>
+		</g>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp4)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s2" d="m84.5 20l330 164.8m-3.3-1.5l330.4 165m-618.6-154l527.8-281.4m-229.7 430.3l527.7-281.4m-900.2 95.3l527.7-281.3m-109.1-30.2l301.3 150.5m-421.8 310l527.7-281.4m-109.2-30.1l301.3 150.4m-962.1 40l527.7-281.4m-229.6 430.3l527.7-281.4m-956 67.5l527.8-281.4m-538.6 266.2l527.7-281.4m-218.8 445.5l527.7-281.4m-765.9 89l301.3 150.5m-3.2-1.6l301.3 150.5m-435.9-144.6l529.1-280.7m-231 429.6l529.1-280.6m-864.5 113.2l529.1-280.7m-301.2-44.4l301.3 150.5m-231.1 323.5l529.1-280.6m-301.2-44.4l301.3 150.4m-901.8-11.4l527.7-281.4m-229.6 430.3l527.7-281.4m-838 12.3l301.3 150.4m-3.2-1.5l301.3 150.4m-531.4-151.2l529.1-280.7m-231 429.6l529.1-280.7m-957.4 66.8l527.8-281.4m-111.5 9.5l301.3 150.4m-419.5 270.4l527.7-281.4m-111.4 9.5l301.3 150.5m-959.9 0.3l527.8-281.4m-107.9-49.8l301.3 150.4m-423.1 329.7l527.7-281.3m-107.8-49.9l301.3 150.5m-870.5 106.1l527.8-281.4m-229.7 430.3l527.7-281.3m-1047.1-10.7l301.3 150.4m-3.2-1.5l301.3 150.4m-359.5-146.9l527.7-281.4m-229.6 430.3l527.7-281.4m-936.4-118.6l329.9 164.9m-105.2-255l301.3 150.4m-199.3 103.1l330.4 165m-134.3-269.6l301.3 150.5m-769.2 13.9l529.2-280.7m-231.1 429.6l529.2-280.7m-941.4-59.8l329.9 164.9m-3.2-1.5l330.4 165m-691.9-211.1l527.8-281.3m-229.7 430.3l527.8-281.4m-604.6-54.7l301.3 150.5m-105.2-255l301.3 150.4m-199.3 103.1l301.3 150.4m-105.2-255l301.3 150.4m-736.1-226.3l301.3 150.5m-3.2-1.5l301.3 150.4m-917.3-99.3l527.8-281.4m-229.7 430.3l527.8-281.4m-804.3 90.2l301.3 150.5m-3.2-1.5l301.3 150.4m-382.3-415.1l301.3 150.4m-3.2-1.5l301.3 150.4m-687.2-282.2l330 164.8m-105.2-254.9l301.3 150.4m-199.4 103.1l330.5 165m-134.4-269.6l301.3 150.4m-676.8-257.8l301.3 150.4m-3.2-1.5l301.3 150.4m-836.5-173.1l301.3 150.4m-3.2-1.5l301.3 150.5m-382.3-415.2l301.3 150.5m-3.2-1.6l301.3 150.5m-658.6-267.8l301.3 150.4m-105.2-255l301.3 150.5m-199.3 103l301.3 150.4m-105.2-255l301.3 150.5m-815.2-184.3l301.3 150.5m-3.2-1.6l301.3 150.5m-816.6-183.6l301.3 150.4m-3.2-1.5l301.3 150.4m-321.1-148.1l527.7-281.4m-229.6 430.3l527.7-281.4m-507.1 291.8l527.7-281.4m-502.2 288l527.8-281.4m-1020.9-134.4l329.9 164.9m-3.3-1.5l330.5 165m-431-419.1l301.3 150.5m-3.2-1.6l301.3 150.5"/>
+		</g>
+	</g>
+	<path id="Layer" fill-rule="evenodd" class="s3" d="m49.1 489v-326.1h978.8v326.1"/>
+</svg>

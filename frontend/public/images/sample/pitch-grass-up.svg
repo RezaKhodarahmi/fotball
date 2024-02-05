@@ -1,0 +1,62 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1040" width="1920" height="1040">
+	<title>pitch-grass-up-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m342 83h1236c20.99 0 38 17.01 38 38v797c0 20.99-17.01 38-38 38h-1236c-20.99 0-38-17.01-38-38v-797c0-20.99 17.01-38 38-38z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #488a0a } 
+		.s1 { fill: #377508 } 
+		.s2 { opacity: .3;fill: #3c8009 } 
+		.s3 { fill: #169d80 } 
+		.s4 { fill: #fefefe } 
+		.t5 { font-size: 54px;fill: #000000;font-weight: 400;font-family: "IBMPlexSerif-Regular", "IBM Plex Serif" } 
+		.s6 { fill: #2b2a29 } 
+	</style>
+	<g id="Layer">
+		<g id="Clip-Path: Clip-Path: Clip-Path" clip-path="url(#cp1)">
+			<g id="Clip-Path: Clip-Path">
+				<g id="Clip-Path">
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m393.3 83h-89.3v873h89.3z"/>
+						<path id="Layer" class="s1" d="m1347.6 83h89.3v873h-89.3z"/>
+						<path id="Layer" class="s1" d="m1347.6 83h89.3v873h-89.3z"/>
+						<path id="Layer" class="s1" d="m1526.5 83h89.3v873h-89.3z"/>
+						<path id="Layer" class="s0" d="m577.8 83h-95.2v873h95.2z"/>
+						<path id="Layer" class="s1" d="m1163.2 83h95.1v873h-95.1z"/>
+						<path id="Layer" class="s0" d="m770 83h-97.1v873h97.1z"/>
+						<path id="Layer" class="s1" d="m970.9 83h97.1v873h-97.1z"/>
+						<path id="Layer" class="s1" d="m482.6 83h-89.3v873h89.3z"/>
+						<path id="Layer" class="s0" d="m1258.3 83h89.3v873h-89.3z"/>
+						<path id="Layer" class="s0" d="m1258.3 83h89.3v873h-89.3z"/>
+						<path id="Layer" class="s0" d="m1437.1 83h89.4v873h-89.4z"/>
+						<path id="Layer" class="s1" d="m672.9 83h-95.1v873h95.1z"/>
+						<path id="Layer" class="s0" d="m1068 83h95.2v873h-95.2z"/>
+						<path id="Layer" class="s1" d="m870.5 83h-100.6v873h100.6z"/>
+						<path id="Layer" class="s0" d="m870.5 83h100.5v873h-100.5z"/>
+						<path id="Layer" class="s2" d="m304 83h1312v873h-1312z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Layer_x0020_1" style="opacity: .1">
+		<path id="Layer" fill-rule="evenodd" class="s3" d="m784.7 441.9h80.9c7.4 0 13.5 4.5 13.5 10.3v88.9c0 5.6-6.1 10.3-13.5 10.3h-80.9c-7.4 0-13.5-4.5-13.5-10.3v-88.9c0-5.8 6.1-10.3 13.5-10.3z"/>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m821.4 451.4c20.3 0 36.8 16.2 37.1 36.3 0 0.2 0 0.2 0.2 0.3 0 2.4 0 4.7 0.2 6.9 2.7 4.8 4.8 8.4 7.6 13 1.3 1.8 1 3.4-0.6 4-2.1 1-5.8-0.3-7.1 1.3 0 6.9 0 11.3 0 18-0.3 5.8-1.9 6.3-6.9 7.1-5.9 0-11.9 0-17.7 0v12.9h-36.5c-0.2-11.6-0.3-23-0.5-34.4 0.2-0.2 0.2-0.2 0.2-0.2-8-6.9-13-16.9-13-28.3 0-20.4 16.5-37.1 37-36.9z"/>
+		<text id="MORABI" style="transform: matrix(1,0,0,1,883.496,496.038)" >
+			<tspan x="0" y="0" class="t5">M</tspan><tspan  y="0" class="t5">O</tspan><tspan  y="0" class="t5">R</tspan><tspan  y="0" class="t5">A</tspan><tspan  y="0" class="t5">B</tspan><tspan  y="0" class="t5">I
+</tspan>
+		</text>
+		<text id="MODERN" style="transform: matrix(1,0,0,1,883.327,546.272)" >
+			<tspan x="0" y="0" class="t5" dx="0" >M</tspan><tspan  y="0" class="t5" dx="0" >O</tspan><tspan  y="0" class="t5" dx="0 -1 -1 -1 -1" >DERN
+</tspan>
+		</text>
+		<path id="Layer" class="s6" d="m834.1 481.6v15l-11.9 6.7-12.1-6.6v-0.9-14l11.6-6.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s6" d="m833.7 453.5l-9 5.6c-1.4 0.8-3.5 1-4.7 0.2l-9.8-6.1c3.5-1.1 7.2-1.8 11.1-1.8 4.4 0 8.6 0.6 12.4 2.1z"/>
+		<path id="Layer" fill-rule="evenodd" class="s6" d="m796.6 460.9l0.6 10.5c0.2 1.6-1 3.5-2.1 4.2l-10.1 5.8c0.8-3.7 2.1-7.2 3.9-10.6 1.9-4 4.6-7.4 7.7-9.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s6" d="m846.3 460.9l-0.6 10.5c-0.2 1.6 1 3.5 2.1 4.2l10.1 5.8c-0.8-3.7-2.1-7.2-3.9-10.6-1.9-4-4.7-7.4-7.7-9.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s6" d="m785.2 496.7l9.5 4.7c1.4 0.8 2.6 2.4 2.6 3.9v11.6c-2.9-2.4-5.3-5.3-7.4-8.5-2.5-3.8-3.9-7.7-4.7-11.7z"/>
+	</g>
+</svg>

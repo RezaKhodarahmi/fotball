@@ -1,0 +1,1728 @@
+{
+	"menu.pitch": [
+    {
+			"name": "menu.pitch-goals",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.6,
+        "scaleY": 0.6,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-goals.svg"
+			}
+		},
+    {
+			"name": "menu.pitch-forward-goals",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.7,
+        "scaleY": 0.7,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-forward-goals.svg"
+			}
+		},
+    {
+			"name": "menu.pitch-no-goals",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.6,
+        "scaleY": 0.6,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-no-goals.svg"
+			}
+		},
+    {
+			"name": "menu.pitch-forward-no-goals",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.7,
+        "scaleY": 0.7,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-forward-no-goals.svg"
+			}
+		},
+    {
+			"name": "menu.pitch-half-goals",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.7,
+        "scaleY": 0.7,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-half-goals.svg"
+			}
+		},
+		{
+			"name": "menu.half-pitch-forward",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.7,
+        "scaleY": 0.7,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/half-pitch-forward.svg"
+			}
+		},
+    {
+			"name": "menu.full-pitch-up",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.7,
+        "scaleY": 0.7,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/full-pitch-up.svg"
+			}
+		},
+    {
+			"name": "menu.half-pitch-up",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.7,
+        "scaleY": 0.7,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/half-pitch-up.svg"
+			}
+		},
+    {
+			"name": "menu.pitch-grass-up",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.7,
+        "scaleY": 0.7,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-grass-up.svg"
+			}
+		},
+    {
+			"name": "menu.pitch-grass",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.6,
+        "scaleY": 0.6,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-grass.svg"
+			}
+		},
+    {
+			"name": "menu.pitch-blank",
+			"description": "",
+			"type": "pitch",
+			"icon": {
+				"prefix": "fas",
+				"name": "street-view"
+			},
+			"option": {
+				"type": "pitch",
+				"name": "New image",
+        "scaleX": 0.6,
+        "scaleY": 0.6,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/pitch-blank.svg"
+			}
+		}
+	],
+  "menu.tools": [
+    {
+			"name": "menu.football-goal",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/football-goal.svg"
+			}
+		},
+    {
+			"name": "menu.football-goal-red",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/football-goal-red.svg"
+			}
+		},
+    {
+			"name": "menu.ball",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/ball.svg"
+			}
+		},
+    {
+			"name": "menu.ball-red",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/ball-red.svg"
+			}
+		},
+    {
+			"name": "menu.ball-yellow",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/ball-yellow.svg"
+			}
+		},
+    {
+			"name": "menu.balls",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/balls.svg"
+			}
+		},
+    {
+			"name": "menu.cone-large",
+			"description": "",
+			"type": "cone",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "cone",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "fill": "#D61818",
+        "fillIndex": [0, 1, 3, 5],
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/cone-red.svg",
+				"svg": "./images/sample/cone-red.svg"
+			}
+		},
+    {
+			"name": "menu.cone-little",
+			"description": "",
+			"type": "cone",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "cone",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "fill": "#EE5600",
+        "fillIndex": [1, 2, 8, 10],
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/cone-orange.svg",
+				"svg": "./images/sample/cone-orange.svg"
+			}
+		},
+    {
+			"name": "menu.flag-yellow",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/flag.svg"
+			}
+		},
+    {
+			"name": "menu.barrier",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "scaleX": 0.07,
+        "scaleY": 0.07,
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/barrier.svg"
+			}
+		},
+    {
+			"name": "menu.barriers",
+			"description": "",
+			"type": "tools",
+			"icon": {
+				"prefix": "fas",
+				"name": "futbol"
+			},
+			"option": {
+				"type": "tools",
+				"name": "New image",
+        "originX": "center",
+        "originY": "center",
+				"src": "./images/sample/obscales.svg"
+			}
+		}
+  ],
+  "menu.player": [
+    {
+			"name": "menu.player",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "player",
+        "fill": "#16171C",
+        "fillIndex": [15],
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/player.svg",
+        "src": "./images/sample/player.svg"
+			}
+		},
+    {
+			"name": "menu.goal-keeper",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "goal-keeper",
+        "fill": "#ff0",
+        "scaleX": 0.05,
+        "scaleY": 0.05,
+        "originX": "center",
+        "originY": "center",
+        "fillIndex": [13, 14, 15],
+        "svg": "./images/sample/goal-keeper.svg",
+        "src": "./images/sample/goal-keeper.svg"
+			}
+		},
+    {
+			"name": "menu.coach",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#fff",
+        "fillIndex": [5],
+        "scaleX": 0.05,
+        "scaleY": 0.05,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/coach.svg",
+        "src": "./images/sample/coach.svg"
+			}
+		},
+    {
+			"name": "menu.circle-1",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-1.svg",
+        "src": "./images/sample/blue-1.svg"
+			}
+		},
+    {
+			"name": "menu.circle-2",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-2.svg",
+        "src": "./images/sample/blue-2.svg"
+			}
+		},
+    {
+			"name": "menu.circle-3",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-3.svg",
+        "src": "./images/sample/blue-3.svg"
+			}
+		},
+    {
+			"name": "menu.circle-4",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-4.svg",
+        "src": "./images/sample/blue-4.svg"
+			}
+		},
+    {
+			"name": "menu.circle-5",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-5.svg",
+        "src": "./images/sample/blue-5.svg"
+			}
+		},
+    {
+			"name": "menu.circle-6",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-6.svg",
+        "src": "./images/sample/blue-6.svg"
+			}
+		},
+    {
+			"name": "menu.circle-7",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-7.svg",
+        "src": "./images/sample/blue-7.svg"
+			}
+		},
+    {
+			"name": "menu.circle-8",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-8.svg",
+        "src": "./images/sample/blue-8.svg"
+			}
+		},
+    {
+			"name": "menu.circle-9",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-9.svg",
+        "src": "./images/sample/blue-9.svg"
+			}
+		},
+    {
+			"name": "menu.circle-10",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-10.svg",
+        "src": "./images/sample/blue-10.svg"
+			}
+		},
+    {
+			"name": "menu.circle-11",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-11.svg",
+        "src": "./images/sample/blue-11.svg"
+			}
+		},
+    {
+			"name": "menu.circle-12",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-12.svg",
+        "src": "./images/sample/blue-12.svg"
+			}
+		},
+    {
+			"name": "menu.circle-13",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-13.svg",
+        "src": "./images/sample/blue-13.svg"
+			}
+		},
+    {
+			"name": "menu.circle-14",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-14.svg",
+        "src": "./images/sample/blue-14.svg"
+			}
+		},
+    {
+			"name": "menu.circle-15",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-15.svg",
+        "src": "./images/sample/blue-15.svg"
+			}
+		},
+    {
+			"name": "menu.circle-16",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-16.svg",
+        "src": "./images/sample/blue-16.svg"
+			}
+		},
+    {
+			"name": "menu.circle-17",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-17.svg",
+        "src": "./images/sample/blue-17.svg"
+			}
+		},
+    {
+			"name": "menu.circle-18",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/blue-18.svg",
+        "src": "./images/sample/blue-18.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-1",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-1.svg",
+        "src": "./images/sample/triangle-yellow-1.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-2",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-2.svg",
+        "src": "./images/sample/triangle-yellow-2.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-3",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-3.svg",
+        "src": "./images/sample/triangle-yellow-3.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-4",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-4.svg",
+        "src": "./images/sample/triangle-yellow-4.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-5",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-5.svg",
+        "src": "./images/sample/triangle-yellow-5.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-6",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-6.svg",
+        "src": "./images/sample/triangle-yellow-6.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-7",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-7.svg",
+        "src": "./images/sample/triangle-yellow-7.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-8",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-8.svg",
+        "src": "./images/sample/triangle-yellow-8.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-9",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-9.svg",
+        "src": "./images/sample/triangle-yellow-9.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-10",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-10.svg",
+        "src": "./images/sample/triangle-yellow-10.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-11",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-11.svg",
+        "src": "./images/sample/triangle-yellow-11.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-12",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-12.svg",
+        "src": "./images/sample/triangle-yellow-12.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-13",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-13.svg",
+        "src": "./images/sample/triangle-yellow-13.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-14",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-14.svg",
+        "src": "./images/sample/triangle-yellow-14.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-15",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-15.svg",
+        "src": "./images/sample/triangle-yellow-15.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-16",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-16.svg",
+        "src": "./images/sample/triangle-yellow-16.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-17",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-17.svg",
+        "src": "./images/sample/triangle-yellow-17.svg"
+			}
+		},
+    {
+			"name": "menu.triangle-18",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#FFFF00",
+        "fillIndex": [0],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/triangle-yellow-18.svg",
+        "src": "./images/sample/triangle-yellow-18.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-1",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-1.svg",
+        "src": "./images/sample/mohreh-blue-1.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-2",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-2.svg",
+        "src": "./images/sample/mohreh-blue-2.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-3",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-3.svg",
+        "src": "./images/sample/mohreh-blue-3.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-4",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-4.svg",
+        "src": "./images/sample/mohreh-blue-4.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-5",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-5.svg",
+        "src": "./images/sample/mohreh-blue-5.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-6",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-6.svg",
+        "src": "./images/sample/mohreh-blue-6.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-7",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-7.svg",
+        "src": "./images/sample/mohreh-blue-7.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-8",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-8.svg",
+        "src": "./images/sample/mohreh-blue-8.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-9",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-9.svg",
+        "src": "./images/sample/mohreh-blue-9.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-10",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-10.svg",
+        "src": "./images/sample/mohreh-blue-10.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-11",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-11.svg",
+        "src": "./images/sample/mohreh-blue-11.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-12",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-12.svg",
+        "src": "./images/sample/mohreh-blue-12.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-13",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-13.svg",
+        "src": "./images/sample/mohreh-blue-13.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-14",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-14.svg",
+        "src": "./images/sample/mohreh-blue-14.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-15",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-15.svg",
+        "src": "./images/sample/mohreh-blue-15.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-16",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-16.svg",
+        "src": "./images/sample/mohreh-blue-16.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-17",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-17.svg",
+        "src": "./images/sample/mohreh-blue-17.svg"
+			}
+		},
+    {
+			"name": "menu.mohreh-18",
+			"description": "",
+			"type": "player",
+			"icon": {
+				"prefix": "fas",
+				"name": "walking"
+			},
+			"option": {
+				"type": "player",
+				"name": "coach",
+        "fill": "#00FFFF",
+        "fillIndex": [9, 26],
+        "scaleX": 0.01,
+        "scaleY": 0.01,
+        "originX": "center",
+        "originY": "center",
+        "svg": "./images/sample/mohreh-blue-18.svg",
+        "src": "./images/sample/mohreh-blue-18.svg"
+			}
+		}
+  ],
+	"menu.text": [
+		{
+			"name": "menu.text",
+			"description": "",
+			"type": "text",
+			"icon": {
+				"prefix": "fas",
+				"name": "font"
+			},
+			"option": {
+				"type": "textbox",
+				"text": "",
+				"width": 60,
+				"height": 30,
+				"fontSize": 32,
+				"name": "New text"
+			}
+		}
+	],
+	"menu.shape": [
+		{
+			"name": "menu.triangle",
+			"description": "",
+			"type": "shape",
+			"icon": {
+				"prefix": "fas",
+				"name": "play",
+				"style": {
+					"transform": "rotate(270deg)"
+				}
+			},
+			"option": {
+				"type": "triangle",
+				"width": 30,
+        "fill": "rgba(1,1,1,0)",
+        "stroke": "#fff",
+				"height": 30,
+				"name": "New shape"
+			}
+		},
+		{
+			"name": "menu.rectangle",
+			"description": "",
+			"type": "shape",
+			"icon": {
+				"prefix": "fas",
+				"name": "stop"
+			},
+			"option": {
+				"type": "rect",
+        "fill": "rgba(1,1,1,0)",
+        "stroke": "#fff",
+				"width": 40,
+				"height": 40,
+				"name": "New shape"
+			}
+		},
+		{
+			"name": "menu.circle",
+			"description": "",
+			"type": "shape",
+			"icon": {
+				"prefix": "fas",
+				"name": "circle"
+			},
+			"option": {
+        "fill": "rgba(1,1,1,0)",
+        "stroke": "#fff",
+				"type": "circle",
+				"radius": 30,
+				"name": "New shape"
+			}
+		}
+	],
+	"menu.drawing": [
+		{
+			"name": "menu.polygon",
+			"description": "",
+			"type": "drawing",
+			"icon": {
+				"prefix": "fas",
+				"name": "draw-polygon"
+			},
+			"option": {
+				"type": "polygon",
+				"name": "New polygon"
+			}
+		},
+		{
+			"name": "menu.line",
+			"description": "",
+			"type": "drawing",
+			"icon": {
+				"prefix": "fas",
+				"name": "minus"
+			},
+			"option": {
+				"type": "line",
+				"name": "New line"
+			}
+		},
+		{
+			"name": "menu.arrow",
+			"description": "",
+			"type": "drawing",
+			"icon": {
+				"prefix": "fas",
+				"name": "long-arrow-alt-right"
+			},
+			"option": {
+				"type": "arrowpath",
+				"name": "New arrow"
+			}
+		},
+    {
+			"name": "menu.sineArrow",
+			"description": "",
+			"type": "drawing",
+			"icon": {
+				"prefix": "fas",
+				"name": "long-arrow-alt-right"
+			},
+			"option": {
+				"type": "sinepath",
+				"name": "New arrow",
+        "src": "./images/sample/sineArrow.svg"
+			}
+		}
+	]
+}

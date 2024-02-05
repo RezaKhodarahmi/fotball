@@ -1,0 +1,65 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1040" width="1920" height="1040">
+	<title>half-pitch-up-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1465.32 115.79v794.81h-1010.48v-794.81z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #759f4f;stroke: #cdcdcd;stroke-width: .7 } 
+		.s1 { fill: #488a0a } 
+		.s2 { fill: #377508 } 
+		.s3 { fill: #ffffff } 
+		.s4 { fill: #169d80 } 
+		.s5 { fill: #fefefe } 
+		.t6 { font-size: 54px;fill: #000000;font-weight: 400;font-family: "IBMPlexSerif-Regular", "IBM Plex Serif" } 
+		.s7 { fill: #2b2a29 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m1468.3 84.4c22.8 0 41.3 18.5 41.3 41.3v789.6c0 22.8-18.5 41.3-41.3 41.3h-1016.4c-22.9 0-41.4-18.5-41.4-41.3v-789.6c0-22.8 18.5-41.3 41.4-41.3z"/>
+		<path id="Layer" class="s1" d="m1461 135.7v121.9h-1001.8v-121.9z"/>
+		<path id="Layer" class="s1" d="m1461 379.5v129.9h-1001.8v-129.9z"/>
+		<path id="Layer" class="s1" d="m1461 639.2v132.5h-1001.8v-132.5z"/>
+		<path id="Layer" class="s2" d="m1461 257.6v121.9h-1001.8v-121.9z"/>
+		<path id="Layer" class="s2" d="m1461 509.4v129.8h-1001.8v-129.8z"/>
+		<path id="Layer" class="s2" d="m1461 771.7v137.2h-1001.9v-137.2z"/>
+		<g id="Clip-Path: Clip-Path: Clip-Path" clip-path="url(#cp1)">
+			<g id="Clip-Path: Clip-Path">
+				<g id="Clip-Path">
+					<g id="Layer">
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m1464.9 130.6v1556.4h-1010v-1556.4zm-5.3 5.3h-999.4v770.2h999.4zm0 775.6h-999.4v770.2h999.4z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m959.9 770.9c76.2 0 137.9 61.7 137.9 137.9 0 76.1-61.7 137.8-137.9 137.8-76.1 0-137.8-61.7-137.8-137.8 0-76.2 61.7-137.9 137.8-137.9zm132.6 137.9c0-73.2-59.4-132.6-132.6-132.6-73.2 0-132.5 59.4-132.5 132.6 0 73.1 59.3 132.5 132.5 132.5 73.2 0 132.6-59.4 132.6-132.5z"/>
+						<path id="Layer" class="s3" d="m957 908.8c0 1.6 1.3 2.9 2.9 2.9 1.7 0 3-1.3 3-2.9 0-1.7-1.3-3-3-3-1.6 0-2.9 1.3-2.9 3z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m959.9 903.2c3.1 0 5.6 2.5 5.6 5.6 0 3.1-2.5 5.6-5.6 5.6-3.1 0-5.6-2.5-5.6-5.6 0-3.1 2.5-5.6 5.6-5.6zm0.3 5.6q0-0.3-0.3-0.3c-0.1 0-0.3 0.1-0.3 0.3 0 0.1 0.2 0.3 0.3 0.3 0.2 0 0.3-0.2 0.3-0.3z"/>
+						<path id="Layer" class="s3" d="m957 295.7c0 1.7 1.3 3 2.9 3 1.7 0 3-1.3 3-3 0-1.6-1.3-2.9-3-2.9-1.6 0-2.9 1.3-2.9 2.9z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m959.9 290.1c3.1 0 5.6 2.5 5.6 5.6 0 3.1-2.5 5.6-5.6 5.6-3.1 0-5.6-2.5-5.6-5.6 0-3.1 2.5-5.6 5.6-5.6zm0.3 5.6c0-0.1-0.1-0.3-0.3-0.3-0.1 0-0.3 0.2-0.3 0.3 0 0.2 0.2 0.3 0.3 0.3q0.3 0 0.3-0.3z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m1015.2 115.8v20.1h-112v-20.1zm-5.3 5.3h-101.4v9.5h101.4z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m1096.4 130.6v86.5h-274.5v-86.5zm-5.3 5.3h-263.9v75.9h263.9z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m1259 130.6v249h-599.6v-249zm-5.3 5.3h-589v238.4h589z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m1073.3 374.3l-3.2 4.3c-12.8 17-29.5 30.9-48.6 40.4-19.1 9.6-40.2 14.5-61.6 14.5-21.3 0-42.4-4.9-61.5-14.5-19.2-9.5-35.8-23.4-48.6-40.4l-3.2-4.3zm-10.8 5.3h-205.2c11.9 14.5 26.7 26.3 43.4 34.7 18.4 9.2 38.7 13.9 59.2 13.9 20.6 0 40.8-4.7 59.2-13.9 16.8-8.4 31.6-20.2 43.4-34.7z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m1464.9 130.6v20.1h-2.6c-4.6 0-9.1-1.9-12.3-5.1-3.3-3.3-5.1-7.7-5.1-12.4v-2.6zm-5.3 5.3h-9.2c0.5 2.2 1.6 4.3 3.2 5.9 1.7 1.6 3.7 2.8 6 3.3z"/>
+						<path id="Layer" fill-rule="evenodd" class="s3" d="m475 130.6v2.6c0 4.7-1.8 9.1-5.1 12.4-3.3 3.2-7.7 5.1-12.3 5.1h-2.7v-20.1zm-5.6 5.3h-9.2v9.2c2.3-0.5 4.3-1.7 6-3.3 1.6-1.6 2.7-3.7 3.2-5.9z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="Layer_x0020_1" style="opacity: .1">
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m784.7 457.9h80.9c7.4 0 13.5 4.5 13.5 10.3v88.9c0 5.6-6.1 10.3-13.5 10.3h-80.9c-7.4 0-13.5-4.5-13.5-10.3v-88.9c0-5.8 6.1-10.3 13.5-10.3z"/>
+		<path id="Layer" fill-rule="evenodd" class="s5" d="m821.4 467.4c20.3 0 36.8 16.2 37.1 36.3 0 0.2 0 0.2 0.2 0.3 0 2.4 0 4.7 0.2 6.9 2.7 4.8 4.8 8.4 7.6 13 1.3 1.8 1 3.4-0.6 4-2.1 1-5.8-0.3-7.1 1.3 0 6.9 0 11.3 0 18-0.3 5.8-1.9 6.3-6.9 7.1-5.9 0-11.9 0-17.7 0v12.9h-36.5c-0.2-11.6-0.3-23-0.5-34.4 0.2-0.2 0.2-0.2 0.2-0.2-8-6.9-13-16.9-13-28.3 0-20.4 16.5-37.1 37-36.9z"/>
+		<text id="MORABI" style="transform: matrix(1,0,0,1,883.496,512.038)" >
+			<tspan x="0" y="0" class="t6">M</tspan><tspan  y="0" class="t6">O</tspan><tspan  y="0" class="t6">R</tspan><tspan  y="0" class="t6">A</tspan><tspan  y="0" class="t6">B</tspan><tspan  y="0" class="t6">I
+</tspan>
+		</text>
+		<text id="MODERN" style="transform: matrix(1,0,0,1,883.327,562.272)" >
+			<tspan x="0" y="0" class="t6" dx="0" >M</tspan><tspan  y="0" class="t6" dx="0" >O</tspan><tspan  y="0" class="t6" dx="0 -1 -1 -1 -1" >DERN
+</tspan>
+		</text>
+		<path id="Layer" class="s7" d="m834.1 497.6v15l-11.9 6.7-12.1-6.6v-0.9-14l11.6-6.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s7" d="m833.7 469.5l-9 5.6c-1.4 0.8-3.5 1-4.7 0.2l-9.8-6.1c3.5-1.1 7.2-1.8 11.1-1.8 4.4 0 8.6 0.6 12.4 2.1z"/>
+		<path id="Layer" fill-rule="evenodd" class="s7" d="m796.6 476.9l0.6 10.5c0.2 1.6-1 3.5-2.1 4.2l-10.1 5.8c0.8-3.7 2.1-7.2 3.9-10.6 1.9-4 4.6-7.4 7.7-9.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s7" d="m846.3 476.9l-0.6 10.5c-0.2 1.6 1 3.5 2.1 4.2l10.1 5.8c-0.8-3.7-2.1-7.2-3.9-10.6-1.9-4-4.7-7.4-7.7-9.9z"/>
+		<path id="Layer" fill-rule="evenodd" class="s7" d="m785.2 512.7l9.5 4.7c1.4 0.8 2.6 2.4 2.6 3.9v11.6c-2.9-2.4-5.3-5.3-7.4-8.5-2.5-3.8-3.9-7.7-4.7-11.7z"/>
+	</g>
+</svg>
